@@ -1,0 +1,8 @@
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/advent2022.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/day1.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/day2.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/day5.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/day4.dir
+/home/pristu/Documents/cpp/advent2022/cmake-build-debug/CMakeFiles/day3.dir
